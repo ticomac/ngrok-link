@@ -1,1 +1,1 @@
-https://6dad-149-19-174-191.ngrok-free.app
+https://b915-149-19-174-191.ngrok-free.app?ngrok-skip-browser-warning=true
