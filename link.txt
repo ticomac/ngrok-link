@@ -1,1 +1,1 @@
-https://8883-149-19-165-106.ngrok-free.app
+https://8883-149-19-165-106.ngrok-free.app?ngrok-skip-browser-warning=true
