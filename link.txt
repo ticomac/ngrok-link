@@ -1,1 +1,1 @@
-https://ab86-149-19-165-106.ngrok-free.app
+https://ab86-149-19-165-106.ngrok-free.app?ngrok-skip-browser-warning=true
